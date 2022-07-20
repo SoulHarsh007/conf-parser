@@ -1,0 +1,58 @@
+{
+  "name": "conf-parser",
+  "author": {
+    "name": "SoulHarsh007",
+    "email": "harsh.peshwani@outlook.com",
+    "url": "https://github.com/SoulHarsh007"
+  },
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "ts-mocha tests/**/*.test.ts",
+    "coverage": "nyc npm test",
+    "coverage:report": "nyc report --reporter=lcov --reporter=text"
+  },
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
+  ],
+  "keywords": [
+    "INI",
+    "configuration",
+    "conf",
+    "parser",
+    "comments",
+    "pacman.conf",
+    "makepkg.conf"
+  ],
+  "bugs": {
+    "email": "harsh.peshwani@outlook.com",
+    "url": "https://github.com/SoulHarsh007/conf-parser/issues"
+  },
+  "license": "BSD-3-Clause",
+  "description": "An INI file parser with support for reading and writing while keeping comments untouched",
+  "packageManager": "yarn@3.2.1",
+  "devDependencies": {
+    "@istanbuljs/nyc-config-typescript": "1.0.2",
+    "@types/chai": "4.3.1",
+    "@types/mocha": "9.1.1",
+    "@types/node": "18.0.6",
+    "@typescript-eslint/eslint-plugin": "5.30.7",
+    "@typescript-eslint/parser": "5.30.7",
+    "assert": "2.0.0",
+    "chai": "4.3.6",
+    "eslint": "8.20.0",
+    "eslint-config-google": "0.14.0",
+    "eslint-config-prettier": "8.5.0",
+    "eslint-plugin-prettier": "4.2.1",
+    "eslint-plugin-security": "1.5.0",
+    "mocha": "10.0.0",
+    "nyc": "15.1.0",
+    "prettier": "2.7.1",
+    "ts-mocha": "10.0.0",
+    "ts-node": "10.9.1",
+    "typescript": "4.7.4"
+  }
+}
