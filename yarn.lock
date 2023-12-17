@@ -3,7 +3,7 @@
 
 __metadata:
   version: 8
-  cacheKey: 10
+  cacheKey: 10c0
 
 "@ampproject/remapping@npm:^2.1.0":
   version: 2.2.0
@@ -1262,7 +1262,7 @@ __metadata:
     chai: "npm:4.3.10"
     eslint: "npm:8.20.0"
     eslint-config-google: "npm:0.14.0"
-    eslint-config-prettier: "npm:8.5.0"
+    eslint-config-prettier: "npm:8.10.0"
     eslint-plugin-prettier: "npm:4.2.1"
     eslint-plugin-security: "npm:1.5.0"
     mocha: "npm:10.0.0"
@@ -1545,14 +1545,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-config-prettier@npm:8.5.0":
-  version: 8.5.0
-  resolution: "eslint-config-prettier@npm:8.5.0"
+"eslint-config-prettier@npm:8.10.0":
+  version: 8.10.0
+  resolution: "eslint-config-prettier@npm:8.10.0"
   peerDependencies:
     eslint: ">=7.0.0"
   bin:
     eslint-config-prettier: bin/cli.js
-  checksum: 8/0d0f5c32e7a0ad91249467ce71ca92394ccd343178277d318baf32063b79ea90216f4c81d1065d60f96366fdc60f151d4d68ae7811a58bd37228b84c2083f893
+  checksum: 19f8c497d9bdc111a17a61b25ded97217be3755bbc4714477dfe535ed539dddcaf42ef5cf8bb97908b058260cf89a3d7c565cb0be31096cbcd39f4c2fa5fe43c
   languageName: node
   linkType: hard
 
@@ -4000,7 +4000,7 @@ __metadata:
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: cd6f51368ba0f8c458a44ca8b05684e9cda49acbb4e7dcf40c4720cd1534f68c2d139ec6f179bb9996e6fe9d0c7a04846db55a048f51fd2f3c41fbce0a004971
+  checksum: 10/cd6f51368ba0f8c458a44ca8b05684e9cda49acbb4e7dcf40c4720cd1534f68c2d139ec6f179bb9996e6fe9d0c7a04846db55a048f51fd2f3c41fbce0a004971
   languageName: node
   linkType: hard
 
