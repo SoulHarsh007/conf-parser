@@ -3,7 +3,7 @@
 
 __metadata:
   version: 8
-  cacheKey: 10
+  cacheKey: 10c0
 
 "@ampproject/remapping@npm:^2.1.0":
   version: 2.2.0
@@ -1267,7 +1267,7 @@ __metadata:
     eslint-plugin-security: "npm:1.5.0"
     mocha: "npm:10.0.0"
     nyc: "npm:15.1.0"
-    prettier: "npm:2.7.1"
+    prettier: "npm:2.8.8"
     ts-mocha: "npm:10.0.0"
     ts-node: "npm:10.9.2"
     typescript: "npm:4.7.4"
@@ -3337,12 +3337,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:2.7.1":
-  version: 2.7.1
-  resolution: "prettier@npm:2.7.1"
+"prettier@npm:2.8.8":
+  version: 2.8.8
+  resolution: "prettier@npm:2.8.8"
   bin:
     prettier: bin-prettier.js
-  checksum: 8/55a4409182260866ab31284d929b3cb961e5fdb91fe0d2e099dac92eaecec890f36e524b4c19e6ceae839c99c6d7195817579cdffc8e2c80da0cb794463a748b
+  checksum: 463ea8f9a0946cd5b828d8cf27bd8b567345cf02f56562d5ecde198b91f47a76b7ac9eae0facd247ace70e927143af6135e8cf411986b8cb8478784a4d6d724a
   languageName: node
   linkType: hard
 
@@ -4000,7 +4000,7 @@ __metadata:
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: cd6f51368ba0f8c458a44ca8b05684e9cda49acbb4e7dcf40c4720cd1534f68c2d139ec6f179bb9996e6fe9d0c7a04846db55a048f51fd2f3c41fbce0a004971
+  checksum: 10/cd6f51368ba0f8c458a44ca8b05684e9cda49acbb4e7dcf40c4720cd1534f68c2d139ec6f179bb9996e6fe9d0c7a04846db55a048f51fd2f3c41fbce0a004971
   languageName: node
   linkType: hard
 
