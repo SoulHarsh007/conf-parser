@@ -1278,7 +1278,7 @@ __metadata:
     eslint-config-google: "npm:0.14.0"
     eslint-config-prettier: "npm:8.10.0"
     eslint-plugin-prettier: "npm:4.2.1"
-    eslint-plugin-security: "npm:1.7.1"
+    eslint-plugin-security: "npm:2.1.0"
     mocha: "npm:10.0.0"
     nyc: "npm:15.1.0"
     prettier: "npm:2.8.8"
@@ -1600,12 +1600,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-security@npm:1.7.1":
-  version: 1.7.1
-  resolution: "eslint-plugin-security@npm:1.7.1"
+"eslint-plugin-security@npm:2.1.0":
+  version: 2.1.0
+  resolution: "eslint-plugin-security@npm:2.1.0"
   dependencies:
     safe-regex: "npm:^2.1.1"
-  checksum: a618cf2f5bf78ac363ca74ef4a5085bc31972f247129b6c7dbd2c0db6bf0866b7b5ce2b00a2078e867ac3a25e9c33a4698233f2ff0cda2e392efdb8d30ad214e
+  checksum: 55e1576dc0a4ae7f6c9fd009a7c619c809d321c84b2f6e80792fa3927fb8c4e4641996ff73fbb3fbfa32b5a816e389a59072eb003e56794ac78dc1b3d29fefd8
   languageName: node
   linkType: hard
 
