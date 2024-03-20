@@ -629,10 +629,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/chai@npm:4.3.11":
-  version: 4.3.11
-  resolution: "@types/chai@npm:4.3.11"
-  checksum: 8/d0c05fe5d02b2e6bbca2bd4866a2ab20a59cf729bc04af0060e7a3277eaf2fb65651b90d4c74b0ebf1d152b4b1d49fa8e44143acef276a2bbaa7785fbe5642d3
+"@types/chai@npm:4.3.14":
+  version: 4.3.14
+  resolution: "@types/chai@npm:4.3.14"
+  checksum: 7712594c1e457cb99c7227d0fe1afcbb900bbd1369494ec2d2b0d79a383057a09ab13d23d7b300287394b99995a8c017aa55e6b9a369b77910bc10310ba504af
   languageName: node
   linkType: hard
 
@@ -1206,9 +1206,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"chai@npm:4.3.10":
-  version: 4.3.10
-  resolution: "chai@npm:4.3.10"
+"chai@npm:4.4.1":
+  version: 4.4.1
+  resolution: "chai@npm:4.4.1"
   dependencies:
     assertion-error: "npm:^1.1.0"
     check-error: "npm:^1.0.3"
@@ -1217,7 +1217,7 @@ __metadata:
     loupe: "npm:^2.3.6"
     pathval: "npm:^1.1.1"
     type-detect: "npm:^4.0.8"
-  checksum: 8/536668c60a0d985a0fbd94418028e388d243a925d7c5e858c7443e334753511614a3b6a124bac9ca077dfc4c37acc367d62f8c294960f440749536dc181dfc6d
+  checksum: 91590a8fe18bd6235dece04ccb2d5b4ecec49984b50924499bdcd7a95c02cb1fd2a689407c19bb854497bde534ef57525cfad6c7fdd2507100fd802fbc2aefbd
   languageName: node
   linkType: hard
 
@@ -1366,13 +1366,13 @@ __metadata:
   resolution: "conf-parser@workspace:."
   dependencies:
     "@istanbuljs/nyc-config-typescript": "npm:1.0.2"
-    "@types/chai": "npm:4.3.11"
+    "@types/chai": "npm:4.3.14"
     "@types/mocha": "npm:10.0.6"
     "@types/node": "npm:20.10.4"
     "@typescript-eslint/eslint-plugin": "npm:6.14.0"
     "@typescript-eslint/parser": "npm:6.14.0"
     assert: "npm:2.1.0"
-    chai: "npm:4.3.10"
+    chai: "npm:4.4.1"
     eslint: "npm:8.56.0"
     eslint-config-google: "npm:0.14.0"
     eslint-config-prettier: "npm:9.1.0"
