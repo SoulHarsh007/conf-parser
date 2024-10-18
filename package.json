@@ -33,7 +33,7 @@
   },
   "license": "BSD-3-Clause",
   "description": "An INI file parser with support for reading and writing while keeping comments untouched",
-  "packageManager": "yarn@4.0.2",
+  "packageManager": "yarn@4.5.1",
   "devDependencies": {
     "@istanbuljs/nyc-config-typescript": "1.0.2",
     "@types/chai": "4.3.11",
