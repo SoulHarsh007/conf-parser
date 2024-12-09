@@ -629,10 +629,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/chai@npm:4.3.11":
-  version: 4.3.11
-  resolution: "@types/chai@npm:4.3.11"
-  checksum: 8/d0c05fe5d02b2e6bbca2bd4866a2ab20a59cf729bc04af0060e7a3277eaf2fb65651b90d4c74b0ebf1d152b4b1d49fa8e44143acef276a2bbaa7785fbe5642d3
+"@types/chai@npm:4.3.20":
+  version: 4.3.20
+  resolution: "@types/chai@npm:4.3.20"
+  checksum: 4601189d611752e65018f1ecadac82e94eed29f348e1d5430e5681a60b01e1ecf855d9bcc74ae43b07394751f184f6970fac2b5561fc57a1f36e93a0f5ffb6e8
   languageName: node
   linkType: hard
 
@@ -1206,9 +1206,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"chai@npm:4.3.10":
-  version: 4.3.10
-  resolution: "chai@npm:4.3.10"
+"chai@npm:4.5.0":
+  version: 4.5.0
+  resolution: "chai@npm:4.5.0"
   dependencies:
     assertion-error: "npm:^1.1.0"
     check-error: "npm:^1.0.3"
@@ -1216,8 +1216,8 @@ __metadata:
     get-func-name: "npm:^2.0.2"
     loupe: "npm:^2.3.6"
     pathval: "npm:^1.1.1"
-    type-detect: "npm:^4.0.8"
-  checksum: 8/536668c60a0d985a0fbd94418028e388d243a925d7c5e858c7443e334753511614a3b6a124bac9ca077dfc4c37acc367d62f8c294960f440749536dc181dfc6d
+    type-detect: "npm:^4.1.0"
+  checksum: b8cb596bd1aece1aec659e41a6e479290c7d9bee5b3ad63d2898ad230064e5b47889a3bc367b20100a0853b62e026e2dc514acf25a3c9385f936aa3614d4ab4d
   languageName: node
   linkType: hard
 
@@ -1366,13 +1366,13 @@ __metadata:
   resolution: "conf-parser@workspace:."
   dependencies:
     "@istanbuljs/nyc-config-typescript": "npm:1.0.2"
-    "@types/chai": "npm:4.3.11"
+    "@types/chai": "npm:4.3.20"
     "@types/mocha": "npm:10.0.6"
     "@types/node": "npm:20.10.4"
     "@typescript-eslint/eslint-plugin": "npm:6.14.0"
     "@typescript-eslint/parser": "npm:6.14.0"
     assert: "npm:2.1.0"
-    chai: "npm:4.3.10"
+    chai: "npm:4.5.0"
     eslint: "npm:8.56.0"
     eslint-config-google: "npm:0.14.0"
     eslint-config-prettier: "npm:9.1.0"
@@ -4402,10 +4402,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"type-detect@npm:^4.0.0, type-detect@npm:^4.0.8":
+"type-detect@npm:^4.0.0":
   version: 4.0.8
   resolution: "type-detect@npm:4.0.8"
   checksum: 8/62b5628bff67c0eb0b66afa371bd73e230399a8d2ad30d852716efcc4656a7516904570cd8631a49a3ce57c10225adf5d0cbdcb47f6b0255fe6557c453925a15
+  languageName: node
+  linkType: hard
+
+"type-detect@npm:^4.1.0":
+  version: 4.1.0
+  resolution: "type-detect@npm:4.1.0"
+  checksum: df8157ca3f5d311edc22885abc134e18ff8ffbc93d6a9848af5b682730ca6a5a44499259750197250479c5331a8a75b5537529df5ec410622041650a7f293e2a
   languageName: node
   linkType: hard
 
